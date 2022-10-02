@@ -1,6 +1,8 @@
-# final
+# PIG GAME
 
 /*
+
+ONE OF THE PROJECTS THAT I USED FOR LEARN JAVASCRIPT LIVE SITE => https://curious-douhua-906c59.netlify.app
 
 ############
 HOW TO PLAY?  
